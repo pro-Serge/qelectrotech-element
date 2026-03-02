@@ -5,3 +5,5 @@ Element library for QElectroTech
 <p>
   <IMG SRC="https://github.com/pro-Serge/qelectrotech-element/blob/25cc150d1bd6eb2b75841276cc5937e2ffe704c7/images/tc4s14r.png">
 <A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dccba5e8da7d32ff5bb8a6c9d196031bab5d1038/autonics/ts4s14r.elmt">Autonics TC4S-14R thermocontroller</A>
+<p>
+<IMG SRC="https://github.com/pro-Serge/qelectrotech-element/blob/8ea0eea79e2ddcb97a31a510f6db211631e84bc3/images/ISDmini.png">
