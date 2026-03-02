@@ -10,3 +10,4 @@ Element library for QElectroTech
 <A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dc407c424441fc8e41451dab9f8515b8cac2dd57/innovert/isdmini.elmt">INNOVERT ISDmini frequency inverter</A>
 <p>
 <img src="https://github.com/pro-Serge/qelectrotech-element/blob/81a315cdde9e3554a86c504e15f2a799c2ee57e9/images/itd.png">
+<A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/609107dc3110c25638aaa9cf18d4612ea103de91/innovert/itd.elmt">INNOVERT ITD frequency inverter</A>
