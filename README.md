@@ -7,4 +7,4 @@ Element library for QElectroTech
 <A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dccba5e8da7d32ff5bb8a6c9d196031bab5d1038/autonics/ts4s14r.elmt">Autonics TC4S-14R thermocontroller</A>
 <p>
 <IMG SRC="https://github.com/pro-Serge/qelectrotech-element/blob/8ea0eea79e2ddcb97a31a510f6db211631e84bc3/images/ISDmini.png">
-<A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dc407c424441fc8e41451dab9f8515b8cac2dd57/innovert/isdmini.elmt">INNOVERT ISDmini frequency invertor</A>
+<A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dc407c424441fc8e41451dab9f8515b8cac2dd57/innovert/isdmini.elmt">INNOVERT ISDmini frequency inverter</A>
