@@ -4,7 +4,7 @@ Element library for QElectroTech
 <A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/6b8008cb75201132524f11be71f809efa96c75d5/ripow/rpr1.elmt">RIPOW RPR1 series soft starters</a>
 <p>
 <IMG SRC="https://github.com/pro-Serge/qelectrotech-element/blob/bdd0ceacbda542e30c49e7b2a167e24d60d675cc/images/FX3U-16MR-4AD-2DA.png">
-<A HREF=" ">EASYCON FX3U-16MR-4AD-2DA PLC</a>
+<A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/bf1fef456efe9417345e663fef9f664ef890b5ab/easycon/fx3u-16mr-1-4.elmt">EASYCON FX3U-16MR-4AD-2DA PLC</a>
 <p>
 <IMG SRC="https://github.com/pro-Serge/qelectrotech-element/blob/25cc150d1bd6eb2b75841276cc5937e2ffe704c7/images/tc4s14r.png">
 <A HREF="https://github.com/pro-Serge/qelectrotech-element/blob/dccba5e8da7d32ff5bb8a6c9d196031bab5d1038/autonics/ts4s14r.elmt">Autonics TC4S-14R thermocontroller</A>
